@@ -15,12 +15,16 @@ _________________
 (1/13 ~ 1/19)	Chapter 04 ~ 05	
 
 p. 125의 확인 문제 2번, p. 155의 확인 문제 4번 풀고 인증하기	Ch.05(05-1) 코어와 스레드, 멀티 코어와 멀티 스레드의 개념을 정리하기
+
+> Done! check on this url https://velog.io/@alrimj/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-CPU
 _________________
 3주차
 
 (1/20 ~ 1/26)	Chapter 06 ~ 08	
 
 p. 185의 확인 문제 3번, p. 205의 확인 문제 1번 풀고 인증하기	Ch.07(07-2) RAID의 정의와 종류를 간단히 정리해 보기
+
+> Done! check on this url https://velog.io/@alrimj/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-MEM-IOSYSTEM
 _________________
 설 연휴
 
