@@ -43,6 +43,7 @@ _________________
 (2/10 ~ 2/16)	Chapter 12 ~ 13	
 
 p. 363의 확인 문제 1번 풀고 인증하기	Ch.12(12-1) 임계 구역, 상호 배제 개념을 정리하기
+> Done! check on this url https://velog.io/@alrimj/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-Synchronization-Deadlock
 _________________
 6주차
 
