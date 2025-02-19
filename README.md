@@ -1,6 +1,7 @@
 # Solo_STD_CS_OS
 혼자 공부하는 컴퓨터구조 + 운영체제
 
+저자님의 git link : https://github.com/kangtegong/self-learning-cs/tree/main
 _________________
 1주차
 
