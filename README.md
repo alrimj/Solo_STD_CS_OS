@@ -50,3 +50,4 @@ _________________
 (2/17 ~ 2/23)	Chapter 14 ~ 15	
 
 p. 400의 확인 문제 1번 풀고 인증하기	Ch.14(14-3) 프로세스가 사용할 수 있는 프레임이 3개 있고, 페이지 참조열이 '2313523423' 일 때 LRU 페이지 교체 알고리즘으로 이 페이지를 참조한다면 몇 번의 페이지 폴트가 발생하는지 풀어보기
+> Done! check on this url https://velog.io/@alrimj/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-Virtual-Memory%EC%99%80-File-System
